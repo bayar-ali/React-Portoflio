@@ -13,7 +13,6 @@ body {
 
 
 .container {
- 
   height: 100%;
   width: 90%;
   margin: 5%;
@@ -34,11 +33,6 @@ body {
   padding: 2% 0% 2% 0%;
 }
 
-/* 
-  ================================================
-  h4 for the text within images on Portfolio page.
-  ================================================
-*/
 h4 {
   background-color: rgb(158, 158, 221);
   width: 100%;
@@ -48,11 +42,6 @@ h4 {
   top: 85%;
 }
 
-/*
-  ==============================
-  Styling for the footer section
-  ==============================
-*/
 ul {
   list-style-type: none;
   
@@ -64,14 +53,12 @@ li {
 
 .footer {
   width: 100%;
-  min-height: 5%;
+  min-height: 10%;
   position: fixed;
   bottom: 0;
-  background-color: rgb(158, 84, 84);
-  /* text-align: center; */
-  /* display: flex; */
+  background-color: rgb(156, 137, 137);
   justify-content: center;
-  /* margin-top: 2%; */
+
 }
 
 .left-margin {
@@ -79,7 +66,6 @@ li {
 }
 
 .card-body {
-  /* width: 18rem; */
   border: solid;
 }
 
