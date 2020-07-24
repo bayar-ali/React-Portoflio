@@ -13,7 +13,7 @@ function AboutMe() {
                     <div className="col-lg-3 col-sm-12 col-md-12">
                         <img src="images/images/linkin picture.png" alt="Profile" className="img-fluid" />
                     </div>
-                    <div className="col-lg-9 col-md-12 text-center">
+                    <div className="col-lg-8 col-md-12 text-center">
                         <p> 
                          Programming has helped me strengthen and develop several characteristics which I believe are important to any successful person. 
                          The computer programming problems and challenges, constant learning,
@@ -21,7 +21,7 @@ function AboutMe() {
                     </div>
                 </div>
                 <div className="row">
-                    <div className="col-lg-12" id="Nic">
+                    <div className="col-lg-12" id="aboutme">
                         <a href="https://www.linkedin.com/in/bayar-ali-7aa8981a0/" target="_blank" className="left-margin"><i
                             className="fab fa-linkedin fa-3x"></i></a>
                         <a href="https://github.com/bayar-ali" target="_blank" className="left-margin"><i className="fab fa-github-square fa-3x"></i></a>

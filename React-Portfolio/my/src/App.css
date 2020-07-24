@@ -24,7 +24,7 @@ body {
   align-content: center;
 }
 
-#Nic {
+#aboutme {
   margin: 3%;
   text-align: center;
 }
@@ -52,12 +52,9 @@ li {
 }
 
 .footer {
-  width: 100%;
-  min-height: 10%;
-  position: fixed;
-  bottom: 0;
-  background-color: rgb(156, 137, 137);
-  justify-content: center;
+  background-color: rgb(155, 127, 127);
+  height: 15em;
+ 
 
 }
 
